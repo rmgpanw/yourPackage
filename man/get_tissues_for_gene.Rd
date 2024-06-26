@@ -7,8 +7,8 @@
 get_tissues_for_gene(gene_symbol_of_interest)
 }
 \arguments{
-\item{gene_symbol_of_interest}{}
+\item{gene_symbol_of_interest}{Character vector of gene symbols.}
 }
 \description{
-Title
+Get tissues where a gene has eQTLs.
 }
